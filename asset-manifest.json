@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd190ec7.css",
-    "main.js": "/static/js/main.0924ee91.js",
-    "static/js/592.4a60497d.chunk.js": "/static/js/592.4a60497d.chunk.js",
-    "index.html": "/index.html",
-    "main.cd190ec7.css.map": "/static/css/main.cd190ec7.css.map",
-    "main.0924ee91.js.map": "/static/js/main.0924ee91.js.map",
-    "592.4a60497d.chunk.js.map": "/static/js/592.4a60497d.chunk.js.map"
+    "main.css": "/valentines-card/static/css/main.cd190ec7.css",
+    "main.js": "/valentines-card/static/js/main.c03a69f2.js",
+    "static/js/592.4a60497d.chunk.js": "/valentines-card/static/js/592.4a60497d.chunk.js",
+    "index.html": "/valentines-card/index.html",
+    "main.cd190ec7.css.map": "/valentines-card/static/css/main.cd190ec7.css.map",
+    "main.c03a69f2.js.map": "/valentines-card/static/js/main.c03a69f2.js.map",
+    "592.4a60497d.chunk.js.map": "/valentines-card/static/js/592.4a60497d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd190ec7.css",
-    "static/js/main.0924ee91.js"
+    "static/js/main.c03a69f2.js"
   ]
 }
