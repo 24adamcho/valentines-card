@@ -1,5 +1,6 @@
 {
   "name": "valentines-card",
+  "homepage": "https://24adamcho.github.io/valentines-card",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
